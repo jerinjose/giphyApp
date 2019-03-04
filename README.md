@@ -1,5 +1,5 @@
 
-It is a Giphy React app
+It is a Giphy React app.
 Please clone this repo and follow the steps,
 
 npm install -> npm start
